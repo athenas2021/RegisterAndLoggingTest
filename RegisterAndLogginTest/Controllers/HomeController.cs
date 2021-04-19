@@ -15,14 +15,16 @@ namespace RegisterAndLogginTest.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Exemplo de ViewBag Sobre (camada controle - metodo ActionResult) ";
+            ViewBag.MinhaCorFavorita = "Verde";
 
-            return View();
+            //return View(); mesma coisa que abaixo
+            return View("About");
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Exemplo de ViewBag Contact (camada controle - metodo ActionResult) ";
 
             return View();
         }

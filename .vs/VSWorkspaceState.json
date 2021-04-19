@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RegisterAndLogginTest",
+    "\\RegisterAndLogginTest\\App_Data",
+    "\\RegisterAndLogginTest\\App_Start",
+    "\\RegisterAndLogginTest\\Controllers",
+    "\\RegisterAndLogginTest\\Views",
+    "\\RegisterAndLogginTest\\Views\\Home"
+  ],
+  "SelectedNode": "\\RegisterAndLogginTest\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
